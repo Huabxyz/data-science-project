@@ -1,0 +1,1 @@
+Before publishing data/*.csv in a public repository, verify the original source and the redistribution license. The source is not specified in the supplied files. If unknown, DO NOT publish CSV files; publish code and figures only, and replace the README dataset section with verified provenance and access instructions.
